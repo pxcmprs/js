@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/ThePicoNerd/mediaproxy-js#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.4",
+    "@types/jest": "^26.0.17",
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
     "ts-jest": "^26.1.0",
